@@ -1,0 +1,17 @@
+[33mcommit 7371e09de4da97d58c3d8e985764d7d5add09490[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: va.koltsov@mail.ru <va.koltsov@mail.ru>
+Date:   Sun May 12 11:22:29 2024 +0500
+
+    добавил переменную ништяк
+
+[33mcommit 8c473c6a299e063470f68931263e9f07ef3bc4c1[m
+Author: User <User@DESKTOP-2NV8R6V>
+Date:   Sun May 12 11:11:43 2024 +0500
+
+    Добавьте файлы проекта.
+
+[33mcommit e795a2c431deb96cf38c53d3fd492659c5ea2331[m
+Author: User <User@DESKTOP-2NV8R6V>
+Date:   Sun May 12 11:11:41 2024 +0500
+
+    Добавить .gitattributes и .gitignore.
