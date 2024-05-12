@@ -11,10 +11,12 @@ namespace gitprogect
         static void Main(string[] args)
         {
             Console.WriteLine("привет мир");
+            int a = int.Parse(Console.ReadLine());
             while (true)
             {
                 Console.WriteLine("пока");
-                    break;
+                Console.WriteLine();
+                break;
             }
         }
     }
