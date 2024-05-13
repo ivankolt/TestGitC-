@@ -11,6 +11,7 @@ namespace gitprogect
         static void Main(string[] args)
         {
             Console.WriteLine("Создал базу данных ");
+            Console.WriteLine("ehfff");
         }
     }
 }
