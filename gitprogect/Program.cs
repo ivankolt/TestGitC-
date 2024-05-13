@@ -10,15 +10,7 @@ namespace gitprogect
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("привет мир");
-            int a = int.Parse(Console.ReadLine());
-            while (true)
-            {
-                Console.WriteLine("пока");
-                Console.WriteLine();
-                break;
-
-            }
+            Console.WriteLine("удалил все");
         }
     }
 }
