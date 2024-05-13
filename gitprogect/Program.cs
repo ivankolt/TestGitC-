@@ -10,7 +10,7 @@ namespace gitprogect
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("удалил все");
+            Console.WriteLine("Создал базу данных ");
         }
     }
 }
